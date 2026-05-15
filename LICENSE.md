@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Liquidity Bot for birdeye sniper bot | contract-verification & simulation-mode is the best birdeye sniper bot, featuring contract-verification and simulation-mode.
 
 
 
